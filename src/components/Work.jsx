@@ -22,10 +22,10 @@ const Work = () => {
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>React JS Application</span>
                         <div className='pt-8 text-center'>
-                            <a href='https://netflix-clone-e7622.web.app/' target='_blank'>
+                            <a href='https://netflix-clone-e7622.web.app/' target='_blank' rel="noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/MYasir161201/Netflix-clone' target='_blank'>
+                            <a href='https://github.com/MYasir161201/Netflix-clone' target='_blank' rel="noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -38,10 +38,10 @@ const Work = () => {
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>React JS Application</span>
                         <div className='pt-8 text-center'>
-                            <a href='https://foodvilla16.netlify.app/' target='_blank'>
+                            <a href='https://foodvilla16.netlify.app/' target='_blank' rel="noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/MYasir161201/FoodVilla' target='_blank'>
+                            <a href='https://github.com/MYasir161201/FoodVilla' target='_blank' rel="noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -54,10 +54,10 @@ const Work = () => {
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>JS Application</span>
                         <div className='pt-8 text-center'>
-                            <a href='https://forkify-yasir.netlify.app/' target='_blank'>
+                            <a href='https://forkify-yasir.netlify.app/' target='_blank' rel="noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/MYasir161201/forkify' target='_blank'>
+                            <a href='https://github.com/MYasir161201/forkify' target='_blank' rel="noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
